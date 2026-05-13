@@ -51,6 +51,10 @@ Seeders live in:
 - `database/seeders/TaskSeeder.php`
 - `database/seeders/DatabaseSeeder.php`
 
+## Database Design
+
+Docs file location: `documentation/ERD - Task Management Project(API).docs`
+
 ## API Endpoints
 
 Postman collection:
